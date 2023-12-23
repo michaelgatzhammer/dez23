@@ -1,4 +1,5 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'de-DE'
+title = 'Weihnachten 2023'
 theme = 'ananke'
+defaultContentLanguage ='de'
