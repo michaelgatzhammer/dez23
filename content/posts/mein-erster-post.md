@@ -1,6 +1,6 @@
 +++
 title = 'Mein Erster Post'
-date = 2023-12-23T11:08:33+01:00
+date = 2024-01-02T11:08:33+01:00
 draft = true
 +++
 # Ebene1
